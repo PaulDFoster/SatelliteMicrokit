@@ -1,0 +1,10 @@
+{
+  "name": "spaceracerocket",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "Listens for the Space Race controller to send instructions for the camera to take a picture",
+  "author": "Paul Foster",
+  "license": "Apache-2.0",
+  "dependencies": {"microbit": "lancaster-university/microbit"}
+}

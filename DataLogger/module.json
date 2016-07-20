@@ -1,0 +1,10 @@
+{
+  "name": "datalogger",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "Logs to SD card Satellite Microkit sensors",
+  "author": "Paul Foster",
+  "license": "Apache-2.0",
+  "dependencies": { "microbit": "lancaster-university/microbit" }
+}

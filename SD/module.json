@@ -1,0 +1,22 @@
+{
+  "name": "sd",
+  "version": "0.0.0",
+  "description": "microSD library",
+  "keywords": [
+    "SD",
+    "microSD",
+    "FAT"
+  ],
+  "author": "Paul Foster, ADAFruit",
+  "repository": {
+    "url": "git@github.com:PaulDFoster/microbitSD.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/PaulDFoster/microbitSD",
+  "license": "GNU V3",
+  "dependencies": {
+      "microbit": "lancaster-university/microbit"
+  },
+    "targetDependencies": {},
+  "bin": "./source"
+}
